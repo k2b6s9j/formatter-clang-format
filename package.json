@@ -1,7 +1,7 @@
 {
   "name": "formatter-clang-format",
   "main": "./lib/main",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Format C/C++/Obj-C using clang-format.",
   "repository": "https://github.com/kepler0/formatter-clang-format",
   "license": "MIT",
